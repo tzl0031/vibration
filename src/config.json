@@ -1,0 +1,7 @@
+{
+"broker_address" :131.204.27.59", 
+"broker_port" : "1883",
+"rPi_id": "1",
+"data_rate: 15",
+"data_range: 0"
+}
