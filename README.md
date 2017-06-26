@@ -18,8 +18,8 @@ To build the project
 2. $ cmake .
 
   If the makefile has been successfully generated, it should show something like:
-    -- Configuring done
-    -- Generating done
+    -- Configuring done//
+    -- Generating done//
     -- Build files have been written to: /home/pi/vibration
 
 3. $ make 
